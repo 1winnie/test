@@ -3,6 +3,7 @@
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <h1>hi</h1>
   <h2>hihi</h2>
+  <h3>来改错</h3>
 </template>
 
 <script>
