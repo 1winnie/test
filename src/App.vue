@@ -4,6 +4,7 @@
   <h1>hi</h1>
   <h2>hihi</h2>
   <h3>来改错</h3>
+  <h4>修改</h4>
 </template>
 
 <script>
